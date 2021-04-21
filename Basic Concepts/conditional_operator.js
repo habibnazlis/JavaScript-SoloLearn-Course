@@ -1,0 +1,1 @@
+var isAdult = (age < 18) ? "Too young" : "Old enough";
